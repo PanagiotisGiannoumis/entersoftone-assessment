@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "firstName": "Kostas",
+    "lastName": "Papadopoulos",
+    "department": "Engineering",
+    "email": "kostas.pap@entersoftone.com",
+    "status": "Active",
+    "hireDate": "2021-05-12",
+    "notes": "Senior frontend developer."
+  },
+  {
+    "id": "2",
+    "firstName": "Maria",
+    "lastName": "Antoniou",
+    "department": "Sales",
+    "email": "maria.ant@entersoftone.com",
+    "status": "Inactive",
+    "hireDate": "2019-11-01",
+    "notes": "On sabbatical."
+  },
+  {
+    "id": "3",
+    "firstName": "Giorgos",
+    "lastName": "Paraskeuopoulos",
+    "department": "HR",
+    "email": "giorgos.par@entersoftone.com",
+    "status": "Active",
+    "hireDate": "2022-02-20",
+    "notes": "Recruiter."
+  }
+]
